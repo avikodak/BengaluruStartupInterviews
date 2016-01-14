@@ -20,10 +20,13 @@
 	<li>Yielding vs sleeping</li>
 	<li>What is serialization and why it is used</li>
 	<li>How does hashmap work ?</li>
+	<li>What is the difference between IdentityHashMap and a HashMap?</li>
+	<li>Differentiate between "<? extends T>" and "<? super T>" in Generics?</li>
 	<li>What is meant by string pooling ?</li>
 	<li>Difference between String s ="Test" and String s = new String("Test")</li>
 	<li>Why is string class immutable</li>
 	<li>What is difference between StringBuffer and StringBuilder ?</li>
+	<li>How do you create your own immutable class?</li>
 </ol>
 
 # Design Questions
@@ -33,6 +36,9 @@
 	<li>Design an ecommerce system</li>
 	<li>Design an analytics platform for an ecommerce system</li>
 	<li>Design offer system for a products for an ecommerce system</li>
+	<li>Design a restaurant finder app for a customer in accordance to his/her geo cordinates?</li>
+	<li>How would you arrange 10TB sized text file with many duplicated lines in a 4GB memory RAM?</li>
+	<li>For web service lovers, how do you design a RESTful service, not specific to any JAX-RS Library?</li>
 </ol>
 
 # WebDev Questions

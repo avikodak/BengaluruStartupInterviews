@@ -63,6 +63,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 
 ### Javascript Questions
 * Scope of a variable in javascript
+* Explain how `this` works in JavaScript
 * Define closures and give us an example
 * How do you make a variable private in js ?
 * What is an array in javascript
@@ -70,6 +71,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What is event bubbling ?
 * What is hoisting ?
 * How does JSONP works ?
+* Describe the difference between a cookie, sessionStorage and localStorage
 * `==` vs `===`
 
 

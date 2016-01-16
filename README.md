@@ -36,7 +36,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Design a restaurant finder app for a customer in accordance to his/her geo cordinates?
 * How would you arrange 10TB sized text file with many duplicated lines in a 4GB memory RAM?
 * For web service lovers, how do you design a RESTful service, not specific to any JAX-RS Library?
-* Design a system where you can provide suggestions to users in ecommerce
+* Design a system where you can provide suggestions to users for ecommerce based company?
+* How do you search tweets based on a hashtag ?
 
 ### WebDev Questions
 * What is HTTP?
@@ -89,15 +90,33 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you find floor / ceil of value in a sorted array ?
 * Find number occuring odd number of times in an array
 * Search for a key in sorted array which is rotated
+* What is the maximum continous subarray sum ?
+* How do you find a subarray for a given sum in an array ?
+* How do you check whether elements are consecutive in an array ?
+* Given two sorted arrays such the arrays may have some common elements. Find the sum of the maximum sum path to reach from beginning of any array to end of any of the two arrays. We can switch from one array to another array only at common elements.
+* Given an array of distinct elements, rearrange the elements of array in zig-zag fashion in O(n) time. The converted array should be in form a < b > c < d > e < f.
 
 **Trees**
 
+* Serialize and deserialize a binary tree and also for n-ary tree ?
 * What are various traversals and how do you implement them ?
 * How do you find out whether a tree is BST or not ?
 * How do you delete a tree ?
 * How do you evaluate expression tree ?
 * How do you find lowest common ancestors in BST ?
 * How do you find whether trees are identical or not ?
+* How do you link all the leaves as doubly linked lists and detaching them from tree ?
+* How do you convert a tree to its mirror image ?
+* Diameter of a tree ?
+* How do you find shortest distance between two nodes in a binary tree ?
+* How do you print a tree in spiral order in a binary tree starting from root ? 
+* Convert a tree to doubly linked list
+* Top , bottom , left ,right view for a tree ?
+* Print common nodes in two binary search trees 
+* Predecessor and successor for a key in a BST
+* How do you find out floor and ceil value for a key in a BST ?
+* How do you build a BST using a sorted array ?
+* Total possible number of binary serach trees for given N keys 
 
 **Linked Lists**
 
@@ -111,6 +130,14 @@ This repository is a curated collection of some of those repetitive, and boring 
 **Queues**
 
 * Implement BFS of a graph
+* Implement LRU cache
+
+**Stacks**
+
+* How do you find the next greater element in an array ?
+* Reverse a stack using recursion
+* How do you implement two stacks/queues using a single array ?
+* Stocks span problem 
 
 **Heaps**
 
@@ -118,6 +145,16 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Print 2d array in a sorted order where all the values are sorted row wise
 * Find N largest/smallest element in an array
 * Given N arrays which are sorted how do you find the smallest range such that atleast one element is present in each array
+* Kth largest/smallest element for infintely larged sized array
+
+**Strings**
+* Reverse words in a given string
+* Given a string find first non repeating character
+* How do you check whether two strings are rotations of each other
+* Run length encoding
+* Print all permutations 
+* Check whether two strings are anagrams to each other
+* Given a sequence of words print all words together which are anagrams to each other
 
 **BITS related**
 
@@ -129,6 +166,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you find largest sum in a 2d array of all the rectangles that can be formed ?
 * How do you find whether a number is ugly or not ? (Divisible by 2 ,3 or 5)
 * Find the maximum length of increasing sub sequence in an array ?
+* Edit distance problem
 
 **Graphs**
 
@@ -142,6 +180,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you find LCM of n numbers ?
 * How do you find whether a number is Ugly number or not ? (whose only prime factors are 2, 3 or 5 ?)
 * How do you find whether a number is fibonacci number or not ?
+* How do you evaluate a infix expression ?
+* ASCII to INT vice versa conversion
 
 ### HR 
 * Why our company ?

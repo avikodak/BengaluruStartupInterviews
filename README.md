@@ -77,12 +77,17 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Describe the difference between a cookie, sessionStorage and localStorage
 * `==` vs `===`
 
-
 ### Algorithms
 **Arrays**
 
 * Find count of smaller element on right side
 * Find a key in a infintely large sized array
+
+**Trees**
+* What are various traversals and how do you implement them ?
+* How do you find out whether a tree is BST or not ?
+* How do you delete a tree ?
+* How do you evaluate expression tree ?
 
 **Linked Lists**
 
@@ -125,8 +130,10 @@ This repository is a curated collection of some of those repetitive, and boring 
 **Misc**
 
 * How do you find LCM of n numbers ?
+* How do you find whether a number is Ugly number or not ? (whose only prime factors are 2, 3 or 5 ?)
+* How do you find whether a number is fibonacci number or not ?
 
-### HR Bullshit!
+### HR 
 * Why our company ?
 * Why you are leaving your present company ?
 * Have you had an argument with your manager in your previous company?
@@ -136,3 +143,4 @@ This repository is a curated collection of some of those repetitive, and boring 
 ### References
 * [HiredInTech | We Help Coders Get Hired](http://www.hiredintech.com/system-design/practicing-system-design-questions/)
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
+* [Careercup | Programming interview Questions](www.careercup.com)

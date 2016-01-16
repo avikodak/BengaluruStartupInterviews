@@ -142,7 +142,6 @@ This repository is a curated collection of some of those repetitive, and boring 
 
 
 ### References
-
 * [HiredInTech | We Help Coders Get Hired](http://www.hiredintech.com/system-design/practicing-system-design-questions/)
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
 * [Careercup | Programming interview Questions](www.careercup.com)

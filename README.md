@@ -61,6 +61,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What are different means of making a website faster ?
 * Cookies vs Local Storage vs Session Storage
 
+### WebDev Questions
+* What does a doctype do?
 
 ### Javascript Questions
 * Scope of a variable in javascript

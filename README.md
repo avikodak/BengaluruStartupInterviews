@@ -36,9 +36,11 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Design a restaurant finder app for a customer in accordance to his/her geo cordinates?
 * How would you arrange 10TB sized text file with many duplicated lines in a 4GB memory RAM?
 * For web service lovers, how do you design a RESTful service, not specific to any JAX-RS Library?
+* Design a system where you can provide suggestions to users in ecommerce
 
-### Networking Questions
+### WebDev Questions
 * What is HTTP?
+* Whats new in HTML 5 ?
 * What are some commonly used HTTP headers?
 * Describe the process from the time you type in a website's URL to it finishing loading on your screen.
 * How do you prevent session hijacking?
@@ -53,16 +55,15 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What is Cross-Site Request Forgery?
 * What are HTTP actions? List all HTTP actions that you know, and explain them.
 * Explain the following HTTP headers: `Expires`, `Date`, `Age`, `If-Modified`, `Do Not Track`, `Cache-Control`, `Transfer-Encoding`, `ETag`, `X-Frame-Options`
-* What are the differences between Long-Polling, Websockets and Server-Sent Events?
+* Long-Polling vs Websockets vs Server-Sent Events?
 * What is CDN ?
 * Why is minification useful?
 * What are different means of making a website faster ?
 * Cookies vs Local Storage vs Session Storage
-
-### WebDev Questions
 * What does a doctype do?
 * REST vs SOAP ?
 * How do you write REST resource for user ?
+* What is XSS and SQL injection and how do you prevent it ?
 
 ### Javascript Questions
 * Scope of a variable in javascript
@@ -76,12 +77,18 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How does JSONP works ?
 * Describe the difference between a cookie, sessionStorage and localStorage
 * `==` vs `===`
+* What is deferred object in jQuery ?
+* What object does $.ajax return ?
+* null vs undefined vs undeclared ?
 
 ### Algorithms
 **Arrays**
 
 * Find count of smaller element on right side
-* Find a key in a infintely large sized array
+* Find a key in a infintely large sized array 
+* How do you find floor / ceil of value in a sorted array ?
+* Find number occuring odd number of times in an array
+* Search for a key in sorted array which is rotated
 
 **Trees**
 
@@ -89,6 +96,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you find out whether a tree is BST or not ?
 * How do you delete a tree ?
 * How do you evaluate expression tree ?
+* How do you find lowest common ancestors in BST ?
+* How do you find whether trees are identical or not ?
 
 **Linked Lists**
 
@@ -138,8 +147,11 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Why our company ?
 * Why you are leaving your present company ?
 * Have you had an argument with your manager in your previous company?
-* What is your strength and weakness?
-
+* What is your strength and weakness ?
+* Describe an incident where you have failed completely and how did you recover ?
+* Have you ever missed your deadlines ?
+* What is the most difficult situation you have ever faced in your life? How did you handle it?
+* What is the angle between hour hand and minute hand in an analog clock?
 
 ### References
 * [HiredInTech | We Help Coders Get Hired](http://www.hiredintech.com/system-design/practicing-system-design-questions/)

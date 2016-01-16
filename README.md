@@ -26,8 +26,6 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Why is string class immutable
 * What is difference between `StringBuffer` and `StringBuilder`?
 * How do you create your own immutable class?
-* REST vs SOAP ?
-* How do you write REST resource for user ?
 
 ### Software Design Questions
 * Design elevator system for a building
@@ -63,6 +61,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 
 ### WebDev Questions
 * What does a doctype do?
+* REST vs SOAP ?
+* How do you write REST resource for user ?
 
 ### Javascript Questions
 * Scope of a variable in javascript
@@ -84,6 +84,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Find a key in a infintely large sized array
 
 **Trees**
+
 * What are various traversals and how do you implement them ?
 * How do you find out whether a tree is BST or not ?
 * How do you delete a tree ?
@@ -141,6 +142,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 
 
 ### References
+
 * [HiredInTech | We Help Coders Get Hired](http://www.hiredintech.com/system-design/practicing-system-design-questions/)
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
 * [Careercup | Programming interview Questions](www.careercup.com)

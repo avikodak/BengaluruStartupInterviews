@@ -26,7 +26,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Why is string class immutable
 * What is difference between `StringBuffer` and `StringBuilder`?
 * How do you create your own immutable class?
-
+* REST vs SOAP ?
+* How do you write REST resource for user ?
 
 ### Software Design Questions
 * Design elevator system for a building

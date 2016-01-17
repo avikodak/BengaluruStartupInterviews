@@ -26,6 +26,16 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Why is string class immutable
 * What is difference between `StringBuffer` and `StringBuilder`?
 * How do you create your own immutable class?
+* Stringbuilder vs Stringbuffer
+* Why is volatile keyword used ?
+* Implement double checked locking on Singelton Class in java
+* Can you override static methods in a class
+* What are inner classes ?
+* What is dynamic binding /late binding ?
+* Why are generics used in java ?
+* What are some new things in 1.8 ?
+* What are lambda expression ?
+* final vs finally vs finalize java ? 
 
 ### Software Design Questions
 * Design elevator system for a building

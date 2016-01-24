@@ -36,6 +36,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What are some new things in 1.8 ?
 * What are lambda expression ?
 * final vs finally vs finalize java ? 
+* How do you avoid deadlock in java ?
 
 ### Software Design Questions
 * Design elevator system for a building
@@ -48,6 +49,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * For web service lovers, how do you design a RESTful service, not specific to any JAX-RS Library?
 * Design a system where you can provide suggestions to users for ecommerce based company?
 * How do you search tweets based on a hashtag ?
+* How do you implement coupons system in ecommerce ?
 
 ### WebDev Questions
 * What is HTTP?
@@ -75,6 +77,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * REST vs SOAP ?
 * How do you write REST resource for user ?
 * What is XSS and SQL injection and how do you prevent it ?
+* How do you improve database performance ?
+* What and how does HTTPS works ?
 
 ### Javascript Questions
 * Scope of a variable in javascript

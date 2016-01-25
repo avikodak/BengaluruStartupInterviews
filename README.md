@@ -50,6 +50,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Design a system where you can provide suggestions to users for ecommerce based company?
 * How do you search tweets based on a hashtag ?
 * How do you implement coupons system in ecommerce ?
+* How do you implement spell corrector for say reviews ?
 
 ### WebDev Questions
 * What is HTTP?

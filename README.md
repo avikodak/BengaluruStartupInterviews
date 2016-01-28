@@ -37,6 +37,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What are lambda expression ?
 * final vs finally vs finalize java ? 
 * How do you avoid deadlock in java ?
+* What is Object Pooling? How do you implement it?
+* What are different types of design patterns in java?
 
 ### Software Design Questions
 * Design elevator system for a building
@@ -51,6 +53,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you search tweets based on a hashtag ?
 * How do you implement coupons system in ecommerce ?
 * How do you implement spell corrector for say reviews ?
+* How do you implement a Messages bus?
 
 ### WebDev Questions
 * What is HTTP?
@@ -182,6 +185,11 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you find whether a number is ugly or not ? (Divisible by 2 ,3 or 5)
 * Find the maximum length of increasing sub sequence in an array ?
 * Edit distance problem
+* 
+**Spring**
+
+*Difference between @Component @Controller @Repository
+
 
 **Graphs**
 

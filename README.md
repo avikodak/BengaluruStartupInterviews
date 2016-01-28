@@ -38,7 +38,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * final vs finally vs finalize java ? 
 * How do you avoid deadlock in java ?
 * What is Object Pooling? How do you implement it?
-* What are different types of design patterns in java?
+* What are different types of design patterns in java ?
+* Difference between @Component @Controller @Repository ?
 
 ### Software Design Questions
 * Design elevator system for a building
@@ -83,7 +84,6 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What is XSS and SQL injection and how do you prevent it ?
 * How do you improve database performance ?
 * What and how does HTTPS works ?
-* Difference between @Component @Controller @Repository
 
 ### Javascript Questions
 * Scope of a variable in javascript
@@ -186,7 +186,6 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you find whether a number is ugly or not ? (Divisible by 2 ,3 or 5)
 * Find the maximum length of increasing sub sequence in an array ?
 * Edit distance problem
-* 
 
 **Graphs**
 

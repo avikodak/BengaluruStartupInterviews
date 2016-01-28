@@ -83,6 +83,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What is XSS and SQL injection and how do you prevent it ?
 * How do you improve database performance ?
 * What and how does HTTPS works ?
+* Difference between @Component @Controller @Repository
 
 ### Javascript Questions
 * Scope of a variable in javascript
@@ -186,10 +187,6 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Find the maximum length of increasing sub sequence in an array ?
 * Edit distance problem
 * 
-**Spring**
-
-*Difference between @Component @Controller @Repository
-
 
 **Graphs**
 

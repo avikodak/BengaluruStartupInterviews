@@ -39,6 +39,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you avoid deadlock in java ?
 * What is Object Pooling? How do you implement it?
 * What are different types of design patterns in java ?
+
+### Spring Questions
 * Difference between @Component @Controller @Repository ?
 
 ### Software Design Questions
@@ -54,7 +56,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you search tweets based on a hashtag ?
 * How do you implement coupons system in ecommerce ?
 * How do you implement spell corrector for say reviews ?
-* How do you implement a Messages bus?
+* How do you implement a Messages bus ?
 
 ### WebDev Questions
 * What is HTTP?
@@ -84,6 +86,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What is XSS and SQL injection and how do you prevent it ?
 * How do you improve database performance ?
 * What and how does HTTPS works ?
+* What are different types of engine types in MySQL ?
 
 ### Javascript Questions
 * Scope of a variable in javascript

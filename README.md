@@ -177,6 +177,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * Print all permutations 
 * Check whether two strings are anagrams to each other
 * Given a sequence of words print all words together which are anagrams to each other
+* Generate permutations of a string
 
 **BITS related**
 

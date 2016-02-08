@@ -220,3 +220,6 @@ This repository is a curated collection of some of those repetitive, and boring 
 * [HiredInTech | We Help Coders Get Hired](http://www.hiredintech.com/system-design/practicing-system-design-questions/)
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
 * [Careercup | Programming interview Questions](www.careercup.com)
+* [CaveOfProgramming | Java and C++ programming tutorials](https://www.caveofprogramming.com/)
+* [DoFactory | Design Patterns](http://www.dofactory.com/net/design-patterns)
+* [TutorialsPoint | Simple Easy Learning | Design pattern](http://www.tutorialspoint.com/design_pattern/)

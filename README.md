@@ -223,3 +223,4 @@ This repository is a curated collection of some of those repetitive, and boring 
 * [CaveOfProgramming | Java and C++ programming tutorials](https://www.caveofprogramming.com/)
 * [DoFactory | Design Patterns](http://www.dofactory.com/net/design-patterns)
 * [TutorialsPoint | Simple Easy Learning | Design pattern](http://www.tutorialspoint.com/design_pattern/)
+* [Udacity | Object Oriented Javascript](https://www.udacity.com/course/viewer#!/c-ud015)

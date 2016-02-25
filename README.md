@@ -117,6 +117,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you check whether elements are consecutive in an array ?
 * Given two sorted arrays such the arrays may have some common elements. Find the sum of the maximum sum path to reach from beginning of any array to end of any of the two arrays. We can switch from one array to another array only at common elements.
 * Given an array of distinct elements, rearrange the elements of array in zig-zag fashion in O(n) time. The converted array should be in form a < b > c < d > e < f.
+* How do you find the equilibrium index in an array ? (sum of elements at lower indexes is equal to the sum of elements at higher indexes)
 
 **Trees**
 

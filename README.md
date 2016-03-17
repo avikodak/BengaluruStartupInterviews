@@ -104,6 +104,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What is deferred object in jQuery ?
 * What object does $.ajax return ?
 * null vs undefined vs undeclared ?
+* Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}` 
 
 ### Algorithms
 **Arrays**

@@ -88,6 +88,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you improve database performance ?
 * What and how does HTTPS works ?
 * What are different types of engine types in MySQL ?
+* Explain how you will design and implement login feature for a website ?
 
 ### Javascript Questions
 * Scope of a variable in javascript

@@ -194,6 +194,8 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you find whether a number is ugly or not ? (Divisible by 2 ,3 or 5)
 * Find the maximum length of increasing sub sequence in an array ?
 * Edit distance problem
+* Transform a given word to another word with minimum transformation where each transformation can change one charater and intermediate word must be a given dictionary of words
+
 
 **Graphs**
 
@@ -209,6 +211,7 @@ This repository is a curated collection of some of those repetitive, and boring 
 * How do you find whether a number is fibonacci number or not ?
 * How do you evaluate a infix expression ?
 * ASCII to INT vice versa conversion
+* Implement multi threaded logger
 
 ### HR 
 * Why our company ?

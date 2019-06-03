@@ -223,6 +223,9 @@ This repository is a curated collection of some of those repetitive, and boring 
 * What is the most difficult situation you have ever faced in your life? How did you handle it?
 * What is the angle between hour hand and minute hand in an analog clock?
 
+### Design interview references
+* [Taxi Service](https://www.youtube.com/watch?v=umWABit-wbk&t=5s)
+
 ### References
 * [HiredInTech | We Help Coders Get Hired](http://www.hiredintech.com/system-design/practicing-system-design-questions/)
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)

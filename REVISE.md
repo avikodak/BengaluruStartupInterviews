@@ -25,6 +25,10 @@ What is cell architecture
 
 -> Box customers to smaller zones to minimize the impact in case of issues.
 
+What is the good sorting algorithm for log sequencing ?
+
+-> Inserting sort as we are stream of records
+
 PAXOS algorithm
 RAFT algorithm
 

@@ -29,6 +29,16 @@ What is the good sorting algorithm for log sequencing ?
 
 -> Inserting sort as we are stream of records
 
+What are good message bus systems ?
+
+NETTY vs Tomcat vs JETTY?
+
+Two phase commit
+Three phase commit
+
+Distributed Transactions 
+https://www.youtube.com/watch?v=S4FnmSeRpAY
+
 PAXOS algorithm
 RAFT algorithm
 

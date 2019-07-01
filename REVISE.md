@@ -38,6 +38,8 @@ Three phase commit
 
 Distributed Transactions 
 https://www.youtube.com/watch?v=S4FnmSeRpAY
+-> Replication can be one alternative to transactions
+
 
 PAXOS algorithm
 RAFT algorithm
